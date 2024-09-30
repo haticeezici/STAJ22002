@@ -1,0 +1,23 @@
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\bin\Debug\HBE PANSİYON.exe.config
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\bin\Debug\HBE PANSİYON.exe
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\bin\Debug\HBE PANSİYON.pdb
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE PANSİYON.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.Properties.Resources.resources
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE PANSİYON.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE PANSİYON.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE PANSİYON.exe
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE PANSİYON.pdb
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.FrmYeniMusteri.resources
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.FrmAdminGiris.resources
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.FrmAnaForm.resources
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.FrmOdalar.resources
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.FrmMusteriler.resources
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.FrmStoklar.resources
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.GelirGider.resources
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE PANSİYON.csproj.ResolveComReference.cache
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.FrmSifreGuncelle.resources
+C:\Users\ASUS\source\repos\HBE PANSİYON\HBE PANSİYON\obj\Debug\HBE_PANSİYON.FrmMesajlar.resources
